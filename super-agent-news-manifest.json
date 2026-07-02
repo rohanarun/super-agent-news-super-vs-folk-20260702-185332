@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[digg.com](https://digg.com/tech/21ho5c7b)",
+    "[theeditorial.news](https://theeditorial.news/ai-agents/anthropic-computer-use-openai-operator-google-mariner-72-osworld-completion-62-fail-on-loginwhic-mr215ujx)",
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)",
+    "[blog.google](https://blog.google)",
+    "[aju.press](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FcnM0cEQ5RW5OX3ItXzI3MTNFeGt3Y2JKOEswU1pMcFNIazdkWkU1bEJlcTZNMDByNVkxOTJVdUNoNUhSS0w4NW1RMEZMczlTWU96dVJCSQ)"
+  ],
+  "design_plan": "rng_seed=42; layout=centered cinematic hero; AIDA=pass; hero_math=1120px max-width 2\u20133 lines; bento_density=grid-auto-flow:dense verified; label_sweep=all competitors mentioned; button_contrast=black/white pills verified",
+  "generated_at": "2026-07-02T18:53:40.636580+00:00",
+  "headline": "Super vs Folk \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair comparison of Super and Folk for people evaluating personal AI agents. Folk fits into the broader automation and assistant landscape, while Super is purpose-built for agents that actually operate computers and reuse a computer-use cache so repeated workflows get cheaper over time. This page situates both products alongside ChatGPT, Gemini, Siri, Grok, and Orchids, using recent reporting and benchmarks to explain why computer-use and cache reuse matter now."
+}
